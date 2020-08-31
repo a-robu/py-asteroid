@@ -31,7 +31,7 @@ It's important to note that because the dynamics of the ships are similar to tha
 |-----------------------|--------------------------------------------------|
 | Esc                   | Quit the game                                    |
 | Left & Right arrows   | Add clockwise/counter-clockwise angular momentum |
-| Up arrow              | Add forwards angular momentum                    |
+| Up arrow              | Add forwards momentum                            |
 | Z key (hold pressed)  | Shoot                                            |
 | Ctrl (hold pressed)   | Dampen translational momentum                    |
 | LShift (hold pressed) | Dampen rotational momentum                       |
