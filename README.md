@@ -18,3 +18,14 @@ python asteroids.py
 ```
 
 Be aware that the game will launch directly into fullscreen mode.
+
+# Keyboard Controls
+
+| Button                | Outcome                                          |
+|-----------------------|--------------------------------------------------|
+| Esc                   | Quit the game                                    |
+| Left & Right arrows   | Add clockwise/counter-clockwise angular momentum |
+| Up arrow              | Add forwards angular momentum                    |
+| Z key (hold pressed)  | Shoot                                            |
+| Ctrl (hold pressed)   | Dampen translational momentum                    |
+| LShift (hold pressed) | Dampen rotational momentum                       |
