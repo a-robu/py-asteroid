@@ -23,7 +23,7 @@ Be aware that the game will launch directly into fullscreen mode.
 
 There are three ships in the game: the red ship, controlled by the player and two other AI-controlled ships. The match is a free-for-all, each ship trying to shoot down ships, aiming for the largest score.
 
-It's important to note that because the dynamics of the ships are similar to that of real ships in space (meaning that thrust controls momentum and there is no friction), the ships can pick up too much speed and become difficult to control. To counter this, the momenum dampners may be used (with Ctrl and LShift).
+It's important to note that because the dynamics of the ships are similar to that of real ships in space (meaning that thrust controls momentum and there is no friction), the ships can pick up too much speed and become difficult to control. To counter this, the momenum dampeners may be used (with Ctrl and LShift).
 
 # Keyboard Controls
 
